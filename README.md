@@ -50,7 +50,7 @@ A modern, intuitive web application for efficient hostel administration and stud
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hostel-management.git
+   git clone https://github.com/sameeraswijekoon/hostel-management.git
    cd hostel-management
    ```
 
