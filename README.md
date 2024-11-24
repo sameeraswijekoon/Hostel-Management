@@ -7,12 +7,13 @@ A modern, intuitive web application for efficient hostel administration and stud
 ## 🌟 Key Features
 
 ### Dashboard Overview
-- 📊 Real-time statistics and occupancy rates
+- 📊 Real-time statistics
 - 🏠 Room availability at a glance
 - 👥 Total student count and distribution
 
 ### Student Management
 <img src="https://github.com/user-attachments/assets/5487886d-2833-4970-a111-403febe72b6e" width="80%" height="80%">
+
 - ➕ Quick student registration
 - 🔄 Update student information
 - 🔍 Advanced search with auto-suggestions
@@ -20,6 +21,7 @@ A modern, intuitive web application for efficient hostel administration and stud
 
 ### Room Assignment
 <img src="https://github.com/user-attachments/assets/575ee93e-479b-44ae-9f77-dc00a434433f" width="80%" height="80%">
+
 - 🎯 Dynamic room allocation
 - 📈 Capacity monitoring
 - 🔄 Easy room reassignment
