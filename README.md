@@ -2,25 +2,24 @@
 
 A modern, intuitive web application for efficient hostel administration and student accommodation management.
 
-![Hostel Management Banner](screenshots/banner.png)
+<img src="https://github.com/user-attachments/assets/f18080f8-10df-4536-827f-64216cdf262e" width="80%" height="80%">
 
 ## 🌟 Key Features
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
 - 📊 Real-time statistics and occupancy rates
 - 🏠 Room availability at a glance
 - 👥 Total student count and distribution
 
 ### Student Management
-![Student Management](screenshots/student-management.png)
+<img src="https://github.com/user-attachments/assets/5487886d-2833-4970-a111-403febe72b6e" width="80%" height="80%">
 - ➕ Quick student registration
 - 🔄 Update student information
 - 🔍 Advanced search with auto-suggestions
 - 📱 Mobile-responsive interface
 
 ### Room Assignment
-![Room Assignment](screenshots/room-assignment.png)
+<img src="https://github.com/user-attachments/assets/575ee93e-479b-44ae-9f77-dc00a434433f" width="80%" height="80%">
 - 🎯 Dynamic room allocation
 - 📈 Capacity monitoring
 - 🔄 Easy room reassignment
@@ -127,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? Here's how to reach us:
 
-- 📧 Email: sameerasw99@.com
+- 📧 Email: sameerasw99@gmail.com
 - 📚 Documentation: [Read the docs](https://docs.hostelmanagement.com)
 
 ## 🌟 Acknowledgments
